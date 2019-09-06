@@ -1,2 +1,2 @@
-# springboot.logging.level_pattern02
+# springboot.logging02
 Spring logging - Logging level and Logging pattern
